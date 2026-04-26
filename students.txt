@@ -1,0 +1,4 @@
+11        UMMUL               CSE            8.8       uk14@gmail.com           
+12        RIYA                IT             8         riya45@gmail.com         
+13        BINA                CSD            8.5       binu05@gmail.com         
+14        PIYU                CSE            7         piyu@gmail.com           
